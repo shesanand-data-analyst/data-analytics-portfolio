@@ -1,3 +1,5 @@
+![Dashboard Preview](powerbi_dashboard_preview.png)
+
 # E-Commerce Sales Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -74,8 +76,8 @@ These measures support dynamic analysis across months, quarters, and categories.
 ---
 
 ## 📁 Files Included
-- `Sales_Performance.pbix` — Full Power BI dashboard file  
-- `dashboard_preview.png` — Dashboard preview image  
+- `E-Commerce Sales Performance Dashboard.pbix` — Full Power BI dashboard file  
+- `powerbi_dashboard_preview.png` — Dashboard preview image  
 - `README.md` — Project documentation
 
 ---
