@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Excel Projects
 
 ## Key Insights
