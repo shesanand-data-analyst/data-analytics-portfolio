@@ -23,7 +23,7 @@ An end-to-end SQL analysis covering:
 - Determined top-performing product lines by city  
 - Classified products as Good/Bad based on sales volume  
 
-📂 Folder: `SQL/`
+📂 Folder: `SQL`
 
 ---
 
@@ -41,7 +41,7 @@ Interactive Excel dashboard built using:
 - Analyzed segment and country performance  
 - Tracked Month-over-Month business changes  
 
-📂 Folder: `Excel/`
+📂 Folder: `Excel`
 
 ---
 
@@ -59,7 +59,7 @@ A professionally designed Power BI dashboard featuring:
 - Measured MoM and QoQ performance  
 - Ranked products by revenue  
 
-📂 Folder: `PowerBI/`
+📂 Folder: `PowerBI`
 
 ---
 
@@ -77,7 +77,7 @@ Complete Python EDA project including:
 - Premium airlines follow higher pricing strategy  
 - Routes and stops impact ticket cost  
 
-📂 Folder: `Python/`
+📂 Folder: `Python`
 
 ---
 
