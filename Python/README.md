@@ -1,29 +1,48 @@
-# Python Projects
+# Flight Ticket Pricing Analysis using Python
 
-## Flight Ticket Price Analysis using Python
+![Project Overview](python_preview.png)
+![Price Analysis](python_chart_preview.png)
 
-### Objective
+## 📌 Project Objective
 Analyze flight ticket pricing data to understand the key factors influencing price variations across airlines, routes, travel class, and booking time.
 
-### Key Analysis Performed
-- Data cleaning and validation
-- Exploratory Data Analysis (EDA)
-- Price comparison across airlines and routes
-- Analysis of Business vs Economy class pricing
-- Impact of days left before departure on ticket prices
-- Visualization of pricing trends using Python
+The project focuses on extracting actionable business insights from real-world airline pricing data using Python-based analysis.
 
-### Tools & Libraries
+---
+
+## 🛠 Key Analysis Performed
+- Data loading, cleaning, and validation
+- Exploratory Data Analysis (EDA)
+- Airline-wise average ticket price comparison
+- Business vs Economy class price analysis
+- Impact of days left before departure on ticket prices
+- Route-based and stop-based price variation analysis
+- Data visualization using Python libraries
+
+---
+
+## 📊 Key Insights
+- Premium airlines such as **Vistara** and **Air India** have significantly higher average ticket prices compared to low-cost carriers.
+- **Business class** fares are consistently much higher than Economy class fares across all routes.
+- Ticket prices increase sharply as the **departure date approaches**, indicating demand-based pricing.
+- Routes and number of stops play a crucial role in determining ticket prices.
+- Certain airlines follow consistent premium pricing strategies.
+
+---
+
+## 🧰 Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-### Key Insights
-- Business class tickets are significantly more expensive than economy class across routes.
-- Ticket prices increase as the departure date approaches.
-- Certain airlines consistently follow premium pricing strategies.
-- Route and number of stops play an important role in price variation.
+---
 
-> The complete analysis with code, visualizations, and insights is available in the Jupyter Notebook.
+## 📁 Files Included
+- `Flight_Ticket_Price_Analysis.ipynb` — Complete Jupyter notebook with analysis and visualizations
+- `python_preview.png` — Dataset and analysis overview
+- `python_chart_preview.png` — Airline-wise ticket price comparison chart
+- `README.md` — Project documentation
+Shesanand Joyboy  
+_Data Analyst_
