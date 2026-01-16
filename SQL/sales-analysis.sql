@@ -166,14 +166,3 @@ SELECT
     END AS performance_category
 FROM enriched_sales
 GROUP BY product_line;
-
-/* =====================================================
-   KEY INSIGHTS & CONCLUSION
-   ===================================================== */
-
--- 1. Identified high-demand product lines based on unit sales.
--- 2. Observed that high-volume products do not always generate the highest revenue.
--- 3. Analyzed monthly revenue trends and calculated MoM growth to track performance.
--- 4. Benchmarked branch performance against average revenue.
--- 5. Identified top-performing products by city for localized strategy.
--- 6. Classified products into performance categories to support decision-making.
