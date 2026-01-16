@@ -44,5 +44,3 @@ The project focuses on extracting actionable business insights from real-world a
 - `python_preview.png` — Dataset and analysis overview
 - `python_chart_preview.png` — Airline-wise ticket price comparison chart
 - `README.md` — Project documentation
-Shesanand Joyboy  
-_Data Analyst_
