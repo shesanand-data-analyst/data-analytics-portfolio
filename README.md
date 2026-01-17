@@ -23,7 +23,7 @@ An end-to-end SQL analysis covering:
 - Determined top-performing product lines by city  
 - Classified products as Good/Bad based on sales volume  
 
-📂 Folder: `SQL/`
+📂 Folder: `SQL`
 
 ---
 
